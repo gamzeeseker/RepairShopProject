@@ -1,0 +1,69 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{ }
+@using RepairShopProject.WebUI.Models
+@model AppointmentVehicleViewModel
+@{ ViewBag.Title = "Randevu Oluştur"; }
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<div id="Durum"></div>
+<div class="row">
+    <div class="col-md-12">
+        <h3> @Model.Vehicle.licensePlate araç için randevu oluştur</h3>
+        <div class="row">
+            <div class="col-md-5">Marka</div>
+            <div class="col-md-7">@Model.Vehicle.brand</div>
+        </div>
+        <div class="row">
+            <div class="col-md-5">Model</div>
+            <div class="col-md-7">@Model.Vehicle.model</div>
+        </div>
+        <div class="row">
+            <div class="col-md-5">Model Yılı</div>
+            <div class="col-md-7">@Model.Vehicle.modelYear</div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        @Html.HiddenFor(model => model.Vehicle.id, new { @id = "VehicleId" })
+        <div class="form-group">
+            <label>Tarih:</label>
+            @Html.TextBoxFor(model => model.Date, new { type = "{0:G}", @class = "form-control", @id = "Date" })
+        </div>
+        <button class="btn btn-primary" onclick="fonk()">Randevu Oluştur</button>
+    </div>
+</div>
+
+
+<script>
+    function fonk(id, date) {
+
+        var date = $('#Date').val();
+        var vehicleid = $('#VehicleId').val();
+
+        var model = {
+            "Vehicle": {
+                "id": vehicleid
+            },
+            "Date": date
+        };
+
+        $.ajax({
+            url: '/Appointment/CreateAppointment',
+            data: model,
+            type: "post",
+            cache: false,
+            success: function (result) {
+                window.location = "/Appointment/Appointments";
+            },
+            error: function (xhr, ajaxOptions, thrownError) {
+
+            }
+        });
+
+    }
+</script>

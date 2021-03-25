@@ -1,0 +1,96 @@
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.deps.json
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csprojAssemblyReference.cache
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfo.cs
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.json
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.dev.json
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.genruntimeconfig.cache
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.deps.json
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.json
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.dev.json
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csprojAssemblyReference.cache
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfo.cs
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.genruntimeconfig.cache
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.deps.json
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.json
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.dev.json
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csprojAssemblyReference.cache
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfo.cs
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.genruntimeconfig.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.deps.json
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.json
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.dev.json
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfoInputs.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfo.cs
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.genruntimeconfig.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csprojAssemblyReference.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.deps.json
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.json
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.dev.json
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csprojAssemblyReference.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfoInputs.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfo.cs
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.genruntimeconfig.cache
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.deps.json
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.json
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.dev.json
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csprojAssemblyReference.cache
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfoInputs.cache
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfo.cs
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.genruntimeconfig.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.deps.json
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.json
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.dev.json
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csprojAssemblyReference.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfoInputs.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfo.cs
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.genruntimeconfig.cache
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.deps.json
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.json
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.runtimeconfig.dev.json
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Entities\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csprojAssemblyReference.cache
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.AssemblyInfo.cs
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Entities\obj\Debug\netcoreapp3.1\RepairShopProject.Entities.genruntimeconfig.cache

@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using RepairShopProject.WebUI.Models
+@model List<CustomerViewModel>
+@{
+    ViewBag.Title = "Müşteriler";
+}
+
+<div id="Durum"></div>
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th> İsim soyisim </th>
+                    <th> Telefon Numarası </th>
+                    <th> Email </th>
+                    <th> Araçlar </th>
+                    <th> Müşteri Sil </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.fullName</td>
+                        <td>@item.phoneNumber</td>
+                        <td>@item.email</td>
+                        <td>@Html.ActionLink("Araçları Göster", "CustomerVehicles", "Vehicle", new { customerId = item.id }, new { @class = "btn btn-primary" }) </td>
+                        <td><button href="#" id="Sil" onclick="fonk(@item.id)" name="@item.id">Sil</button></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+    function fonk(item) {
+
+        if (confirm("Kaydı silmek istediğinizden emin misiniz?")) {
+            var ID = item;
+ 
+            $.ajax({
+                url: '/Customer/Delete/' + ID,
+                type: 'POST',
+                dataType: 'json',
+                success: function (data) {
+                    $("#Durum").html(data);
+
+                }
+            });
+        }
+    }
+
+</script>

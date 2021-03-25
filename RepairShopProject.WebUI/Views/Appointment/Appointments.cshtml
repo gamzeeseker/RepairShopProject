@@ -1,0 +1,50 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using RepairShopProject.WebUI.Models
+@model List<AppointmentViewModel>
+@{
+    ViewBag.Title = "Araçlar";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <h3> Randevular </h3>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th> Tarih </th>
+                    <th> Araç Plaka </th>
+                    <th> Araç Marka </th>
+                    <th> Araç Model </th>
+                    <th> Araç Model Yılı </th>
+                    <th> Müşteri Ad Soyad </th>
+                    <th> Müşteri Telefon Numarası </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.date</td>
+                        <td>@item.Vehicle.licensePlate</td>
+                        <td>@item.Vehicle.brand</td>
+                        <td>@item.Vehicle.model</td>
+                        <td>@item.Vehicle.modelYear</td>
+                        <td>@item.Customer.fullName</td>
+                        <td>@item.Customer.phoneNumber</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

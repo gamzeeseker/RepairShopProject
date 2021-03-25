@@ -1,0 +1,102 @@
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.deps.json
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csprojAssemblyReference.cache
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfoInputs.cache
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfo.cs
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\Gamze\Desktop\core\RepairShopProject\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.deps.json
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csprojAssemblyReference.cache
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfoInputs.cache
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfo.cs
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\Gamze\Desktop\core\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csprojAssemblyReference.cache
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfoInputs.cache
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfo.cs
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.deps.json
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.DataAccess.dll
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.DataAccess.pdb
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\Gamze\Desktop\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csproj.CopyComplete
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.deps.json
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.DataAccess.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.DataAccess.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csprojAssemblyReference.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfoInputs.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfo.cs
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csproj.CopyComplete
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Codefirst ConnectionString\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.deps.json
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.DataAccess.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.DataAccess.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csprojAssemblyReference.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfoInputs.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfo.cs
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csproj.CopyComplete
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.deps.json
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.DataAccess.dll
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.DataAccess.pdb
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csprojAssemblyReference.cache
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfoInputs.cache
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfo.cs
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csproj.CopyComplete
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\GAMZE SEKER\Desktop\RepairShopProject Hazırlanan\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.deps.json
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.DataAccess.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.DataAccess.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csprojAssemblyReference.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfoInputs.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfo.cs
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csproj.CopyComplete
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\GAMZE SEKER\Desktop\new\RepairShopProject Hazırlanannn Deneme\RepairShopProject Codefirst ConnectionString\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.deps.json
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.DataAccess.dll
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.dll
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.DataAccess.pdb
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Business\bin\Debug\netcoreapp3.1\RepairShopProject.Entities.pdb
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csprojAssemblyReference.cache
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfoInputs.cache
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.AssemblyInfo.cs
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.csproj.CopyComplete
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.dll
+C:\Users\Gamze\Downloads\RepairShopProject-main\RepairShopProject.Business\obj\Debug\netcoreapp3.1\RepairShopProject.Business.pdb
